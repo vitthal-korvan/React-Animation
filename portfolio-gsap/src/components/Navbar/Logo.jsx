@@ -3,7 +3,10 @@ import React from 'react'
 const Logo = () => {
   return (
     <div>
-      <img src="../public/iamges/1CODE Logo.png" />
+      <img src="./images/one.png" style={{
+        height:"90px",
+        width:"120px"
+      }}/>
     </div>
   );
 }
